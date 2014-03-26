@@ -3,6 +3,8 @@ assert.js
 
 Wrapper for [expect.js](https://github.com/LearnBoost/expect.js) library.
 
+**Please, see http://chaijs.com =)**
+
 Add following scripts to your HTML page:
 
 ```html
